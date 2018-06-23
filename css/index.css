@@ -1,1 +1,57 @@
 
+
+
+.full_image {
+
+  width: 100%;
+
+}
+
+/*
+
+  STYLING FOR GALLERY
+
+
+ */
+
+p {
+
+ color: white;
+ font-family: verdana;
+
+}
+
+h1 {
+
+  font-family: avenir;
+
+}
+
+/* SPACE FROM THE BOXES */
+
+.spacing {
+
+padding-top: 50px;
+
+}
+
+/*
+
+  BACKGROUND COLORS THAT ARENT WHITE
+  LIKE THE GREY AND YELLOW DIVS THAT CONTAIN
+  ABOUT US AND GALLERY
+
+ */
+
+.dark_back {
+
+  background-color: #403F45;
+  border-bottom: 30px solid #403F45;
+
+}
+
+.dark_yellow {
+
+  background-color: #D9BA08;
+
+}
